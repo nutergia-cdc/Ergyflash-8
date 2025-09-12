@@ -68,6 +68,37 @@ editoplein h3{
      
 color: #000; }
 
+.confortplein {
+        color: #fff;
+    font-weight: 300;
+        background-color:#289b38;
+ }
+.confortplein h3{
+        
+   
+    color: #fff;
+}
+.femmeplein {
+        color: #fff;
+    font-weight: 300;
+        background-color:#c30069;
+ }
+.femmeplein h3{
+        
+   
+    color: #fff;
+}
+
+.magplein {
+        color: #fff;
+    font-weight: 300;
+        background-color:#b55ea1;
+ }
+.magplein h3{
+        
+   
+    color: #fff;
+}
 
 
 .rh {
