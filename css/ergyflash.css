@@ -60,7 +60,11 @@ color: #282828; }
         color: #fff;
     font-weight: 300;
         background-color:rgba(134, 82, 139, 0.6);
- }
+ } 
+
+.nuitplein {
+        color: #86528bff;
+}
 
 
 
@@ -463,20 +467,22 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
       }
 }
 
-.enlu:first-child  {font-family: serif;
+.enlu  {font-family: serif;
 font-weight: 500;
 font-size: 40px;
      display: inline-block;
-    margin-bottom: -10px;
+    margin-bottom: -30px;
+    margin-left: -20px;
    
     
 }
 
-.enlu:last-child  {font-family: serif;
+.enlufin {font-family: serif;
 font-weight: 500;
 font-size: 40px;
     display: inline-flex;
 margin-top: -90px;
+    margin-left: 5px;
     
 }
 h6{font-weight: 100;}
