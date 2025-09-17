@@ -298,8 +298,10 @@ text-transform: uppercase; }
     margin-bottom: 10px;
 }
 .strong{font-weight: 800;}
+.semistrong{font-weight: 500;}
 
 .thin{font-weight: 100;}
+
 .ita{font-style: italic;}
 
 
