@@ -280,6 +280,7 @@ text-transform: uppercase; }
 }
 
 
+
 .rounded2
 {
  margin-top: 10px; 
@@ -296,7 +297,10 @@ text-transform: uppercase; }
  margin-top: 10px; 
     margin-bottom: 10px;
 }
+.strong{font-weight: 800;}
 
+.thin{font-weight: 100;}
+.ita{font-style: italic;}
 
 
 .superround{
